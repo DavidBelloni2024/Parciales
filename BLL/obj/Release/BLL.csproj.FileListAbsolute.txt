@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\Parcial1\BLL\bin\Release\BLL.dll
+C:\Users\David\source\repos\Parcial1\BLL\bin\Release\BLL.pdb
+C:\Users\David\source\repos\Parcial1\BLL\bin\Release\DAL.dll
+C:\Users\David\source\repos\Parcial1\BLL\bin\Release\DOMAIN.dll
+C:\Users\David\source\repos\Parcial1\BLL\bin\Release\DAL.pdb
+C:\Users\David\source\repos\Parcial1\BLL\bin\Release\DOMAIN.pdb
+C:\Users\David\source\repos\Parcial1\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Parcial1\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Parcial1\BLL\obj\Release\BLL.csproj.Up2Date
+C:\Users\David\source\repos\Parcial1\BLL\obj\Release\BLL.dll
+C:\Users\David\source\repos\Parcial1\BLL\obj\Release\BLL.pdb
