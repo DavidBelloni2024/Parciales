@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\Parcial1\UI\bin\Release\UI.exe.config
+C:\Users\David\source\repos\Parcial1\UI\bin\Release\UI.exe
+C:\Users\David\source\repos\Parcial1\UI\bin\Release\UI.pdb
+C:\Users\David\source\repos\Parcial1\UI\bin\Release\BLL.dll
+C:\Users\David\source\repos\Parcial1\UI\bin\Release\DOMAIN.dll
+C:\Users\David\source\repos\Parcial1\UI\bin\Release\DAL.dll
+C:\Users\David\source\repos\Parcial1\UI\bin\Release\BLL.pdb
+C:\Users\David\source\repos\Parcial1\UI\bin\Release\DOMAIN.pdb
+C:\Users\David\source\repos\Parcial1\UI\bin\Release\DAL.pdb
+C:\Users\David\source\repos\Parcial1\UI\obj\Release\UI.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Parcial1\UI\obj\Release\UI.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Parcial1\UI\obj\Release\UI.csproj.Up2Date
+C:\Users\David\source\repos\Parcial1\UI\obj\Release\UI.exe
+C:\Users\David\source\repos\Parcial1\UI\obj\Release\UI.pdb
