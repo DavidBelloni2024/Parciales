@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\Parcial1\DAL\bin\Release\DAL.dll
+C:\Users\David\source\repos\Parcial1\DAL\bin\Release\DAL.pdb
+C:\Users\David\source\repos\Parcial1\DAL\bin\Release\DOMAIN.dll
+C:\Users\David\source\repos\Parcial1\DAL\bin\Release\DOMAIN.pdb
+C:\Users\David\source\repos\Parcial1\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Parcial1\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Parcial1\DAL\obj\Release\DAL.csproj.Up2Date
+C:\Users\David\source\repos\Parcial1\DAL\obj\Release\DAL.dll
+C:\Users\David\source\repos\Parcial1\DAL\obj\Release\DAL.pdb

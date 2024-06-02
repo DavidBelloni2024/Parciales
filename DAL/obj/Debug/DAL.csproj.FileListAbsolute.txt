@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\Parcial1\DAL\bin\Debug\DAL.dll
+C:\Users\David\source\repos\Parcial1\DAL\bin\Debug\DAL.pdb
+C:\Users\David\source\repos\Parcial1\DAL\bin\Debug\DOMAIN.dll
+C:\Users\David\source\repos\Parcial1\DAL\bin\Debug\SL.dll
+C:\Users\David\source\repos\Parcial1\DAL\bin\Debug\DOMAIN.pdb
+C:\Users\David\source\repos\Parcial1\DAL\bin\Debug\SL.pdb
+C:\Users\David\source\repos\Parcial1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Parcial1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Parcial1\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\David\source\repos\Parcial1\DAL\obj\Debug\DAL.dll
+C:\Users\David\source\repos\Parcial1\DAL\obj\Debug\DAL.pdb
